@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Golang!!!
+          Learn Golang - WIP!!!
         </a>
       </header>
     </div>
